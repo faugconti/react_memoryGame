@@ -1,5 +1,6 @@
 import React from "react";
 import RadioBox from "../RadioBox";
+import Counter from "../Counter";
 import { CATEGORIES, INITIAL_CARDS_COUNT, PACE } from "../../constants";
 
 const Settings = ({ startGame }) => {
